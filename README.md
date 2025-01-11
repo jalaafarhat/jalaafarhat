@@ -11,9 +11,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalaafarhat&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalaafarhat&layout=compact&theme=radical)
 
-## Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalaafarhat&layout=compact&theme=radical)
-
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jalaa-farhat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalaa-farhat-642525205/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github-pages&logoColor=white)](https://jalaafarhat.com)
