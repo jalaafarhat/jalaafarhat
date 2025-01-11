@@ -3,9 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jalaafarhat&color=blue)
 
 ## About Me
-- 💻 I'm currently working on [Project](https://linktoproject.com)
-- 🌱 I’m learning React and AWS
-- 👯 I’m looking to collaborate on React projects
+- 💻 I'm currently working on [Project]([https://linktoproject.com](https://github.com/jalaafarhat/AIContentGenerator))
+- 🌱 I’m learning React
+- 👯 I’m looking to collaborate on Fullstack projects
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalaafarhat&show_icons=true&theme=radical)
