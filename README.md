@@ -19,4 +19,7 @@
   <a href="https://jalaafarhat.com" target="_blank">
     <img src="https://github.com/jalaafarhat/jalaa-farhat-portfolio/blob/main/public/JF%20Logo.jpeg" alt="Portfolio" width="50" height="50">
   </a>
+  <a href="mailto:jalaa.c.m@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-jalaa.c.m@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
