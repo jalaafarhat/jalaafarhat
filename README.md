@@ -12,5 +12,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalaafarhat&layout=compact&theme=radical)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalaa-farhat-642525205/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github-pages&logoColor=white)](https://jalaafarhat.com)
+<div>
+  <a href="https://linkedin.com/in/jalaa-farhat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://jalaafarhat.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio">
+  </a>
+</div>
