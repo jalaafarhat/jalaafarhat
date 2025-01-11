@@ -14,7 +14,7 @@
 ## Connect with Me
 <div>
   <a href="https://www.linkedin.com/in/jalaa-farhat-642525205/" target="_blank">
-    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" width="50" height="50">
+    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" width="60" height="60">
   </a>
   <a href="https://jalaafarhat.com" target="_blank">
     <img src="https://github.com/jalaafarhat/jalaa-farhat-portfolio/blob/main/public/JF%20Logo.jpeg" alt="Portfolio" width="50" height="50">
