@@ -14,11 +14,13 @@
 ## Connect with Me
 <div>
   <a href="https://www.linkedin.com/in/jalaa-farhat-642525205/" target="_blank">
-    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" width="60" height="60">
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/608/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" width="60" height="60">
   </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jalaafarhat.com" target="_blank">
     <img src="https://github.com/jalaafarhat/jalaa-farhat-portfolio/blob/main/public/JF%20Logo.jpeg" alt="Portfolio" width="50" height="50">
   </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jalaa.c.m@gmail.com" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Email" width="50" height="50">
   </a>
