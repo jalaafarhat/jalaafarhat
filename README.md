@@ -13,10 +13,10 @@
 
 ## Connect with Me
 <div>
-  <a href="https://linkedin.com/in/jalaa-farhat">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/jalaa-farhat-642525205/" target="_blank">
+    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" width="50" height="50">
   </a>
-  <a href="https://jalaafarhat.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio">
+  <a href="https://jalaafarhat.com" target="_blank">
+    <img src="https://github.com/jalaafarhat/jalaa-farhat-portfolio/blob/main/public/JF%20Logo.jpeg" alt="Portfolio" width="50" height="50">
   </a>
 </div>
