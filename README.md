@@ -15,7 +15,7 @@
 
 ## Connect with Me
 <div>
-  <a href="https://www.linkedin.com/in/jalaa-farhat-642525205/" target="_blank">
+  <a href="https://www.linkedin.com/in/jalaafarhat/" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/023/986/608/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" width="60" height="60">
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
