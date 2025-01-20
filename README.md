@@ -3,11 +3,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jalaafarhat&color=blue)
 
 ## About Me
-- 💻 I'm currently working on [Project](https://github.com/jalaafarhat/AIContentGenerator)
+- 💻 I'm currently working on [Project](https://github.com/jalaafarhat/AIContentGenerator-Frontend)
 - 🌱 I’m learning React
 - 👯 I’m looking to collaborate on Fullstack projects
 - 🟢 **Open to Work**: Looking for exciting opportunities in software development ,Fullstack ,Backend ,Frontend!
-
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalaafarhat&show_icons=true&theme=radical)
