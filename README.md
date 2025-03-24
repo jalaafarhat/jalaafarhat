@@ -18,7 +18,7 @@
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jalaafarhat.com" target="_blank">
-    <img src="https://github.com/jalaafarhat/jalaa-farhat-portfolio/blob/main/public/JF%20Logo.jpeg" alt="Portfolio" width="50" height="50">
+    <img src="https://github.com/user-attachments/assets/f964ef90-c375-46e4-9a85-3d6a045db7ac" alt="Portfolio" width="50" height="50">
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jalaa.c.m@gmail.com" target="_blank">
