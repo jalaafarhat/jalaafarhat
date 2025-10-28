@@ -5,7 +5,6 @@
 ## About Me
 - 🌱 I’m learning Next.js ,MongoDb.
 - 👯 I’m looking to collaborate on Fullstack projects
-- 🟢 **Open to Work**: Looking for exciting opportunities in software development ,Fullstack ,Backend ,Frontend!
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalaafarhat&show_icons=true&theme=radical)
