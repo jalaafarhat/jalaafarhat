@@ -1,78 +1,85 @@
-# Hi, I'm Jalaa Farhat 👋
+# 👋 Hi, I’m Jalaa Farhat
 
-I'm a **Full-Stack Developer** and **Software Engineer** from Israel. I love building modern, responsive web apps, experimenting with new technologies, and solving challenging problems.  
+I’m a **Software Engineer** focused on **Software Development, Automation, and Generative AI (GenAI)**.  
+I build **AI‑powered tools, automation frameworks, and high‑quality web applications** using Angular, TypeScript, Playwright, and CI/CD pipelines.
 
 ---
 
-## 🚀 About Me
-- 👨‍💻 Software engineer at [BMC Software](https://www.bmc.com/)
-- 🔭 Currently building fullstack web apps using **Next.js, TypeScript, TailwindCSS, and MongoDB**
-- ⚡ Experienced with **Angular, Playwright, Flex/Bison**
-- 🌱 Learning **TypeScript patterns**, **full-stack architecture**, and **Generative AI (GenAI) applications**
-- 💡 Interested in building **automation tools, AI-powered apps, dashboards, and visually appealing UI/UX**
-- 🏗️ Strong focus on **mentorship-style learning** and **hands-on project development**
+## 🔧 What I Do
+
+- 💼 Software Engineer at **BMC Software**
+- 🤖 Build **automation solutions** with Playwright, Jenkins CI/CD, and Jira workflows
+- 🧠 Work on **Generative AI (GenAI)** projects using OpenAI and ADK
+- ⚡ Passionate about **clean code, scalable systems, and intelligent tools**
+- 🌱 Continually exploring **AI, automation, and advanced web development**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 👨‍💻 Languages & Frameworks
+
 <div>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-### Backend & Database
+### 🔄 Automation & CI/CD
+
 <div>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
-### AI & Generative AI
+### 🤖 Generative AI (GenAI)
+
 <div>
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00ACEE?style=for-the-badge&logo=chatgpt&logoColor=white" />
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-2CA3D2?style=for-the-badge&logo=langchain&logoColor=white" />
-</div>
-
-### DevOps & Testing
-<div>
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="ADK" src="https://img.shields.io/badge/ADK-FF6F00?style=for-the-badge&logo=appwrite&logoColor=white" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Jalaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalaafarhat&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+<p align="center">
+  <img alt="GitHub Stats" src="https://readme-stats-github.pages.dev/api?username=jalaafarhat&show_icons=true&theme=radical" width="49%" />
+  <img alt="Top Languages" src="https://readme-stats-github.pages.dev/api/top-langs?username=jalaafarhat&layout=compact&theme=radical" width="49%" />
+</p>
 
-![Top Langs](https://img.shields.io/github/languages/top/jalaafarhat/jalaafarhat?style=for-the-badge&color=00ACEE)
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=jalaafarhat&theme=radical" width="49%" />
+  <img alt="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=jalaafarhat.jalaafarhat" width="49%" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 
 | Project | Tech Stack | Description |
-|--------|-----------|-------------|
-| [Fullstack Tech Newspaper](https://github.com/jalaafarhat/jalaafarhat) | Next.js, TailwindCSS, MongoDB, TypeScript | Admin panel + public articles + comments with validation |
-| [Cowboy E-Commerce Store](https://github.com/jalaafarhat/cowboy-store) | Angular, TypeScript, Playwright | Cart, product filters, localStorage persistence, end-to-end tests |
-| [Simple TODO List](https://github.com/jalaafarhat/todo-nextjs) | Next.js, TypeScript, JSON Storage | Fullstack ToDo app with CRUD operations |
-| [C-like Interpreter](https://github.com/jalaafarhat/flex-bison-interpreter) | C++, Flex, Bison | Mini interpreter supporting variables, expressions, if/while, print |
-| [AI Chatbot / GenAI Experiments](https://github.com/jalaafarhat/ai-projects) | OpenAI, LangChain, Next.js | Experimenting with generative AI, chatbots, and AI-powered automation |
+|--------|------------|-------------|
+| **[ADK GenAI Project](https://github.com/jalaafarhat/adk-genai)** | ADK, OpenAI | Generative AI project using ADK & OpenAI for intelligent interactions |
+| **[AI Automation Tools](https://github.com/jalaafarhat/ai-projects)** | OpenAI, LangChain | AI-powered automation workflows and tools |
+| **[Cowboy E-Commerce Store](https://github.com/jalaafarhat/cowboy-store)** | Angular, TypeScript, Playwright | Frontend store with filters, cart, automated tests |
+| **[Angular TODO App](https://github.com/jalaafarhat/todo-nextjs)** | Angular, TypeScript | Simple CRUD TODO app with local persistence |
 
 ---
 
-## 🌐 Connect with Me
+## 💬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jalaafarhat)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalaa.farhat@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/jalaafarhat">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jalaa.farhat@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> 💬 I love collaborating on **Next.js, TypeScript, Angular projects**, and exploring **AI & GenAI innovations** in full-stack applications.
+> 💬 I focus on **software development, automation, and generative AI**, building tools that are **efficient, scalable, and intelligent**.
